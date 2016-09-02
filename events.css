@@ -1,0 +1,30 @@
+
+.bold {
+  font-weight: 800;
+}
+
+.italicized {
+  font-style: italic;
+}
+
+.blue {
+  color: blue;
+}
+
+.hulkifyTheSecond {
+  font-size: 2.5em;
+}
+
+.borderCSSclass {
+  border: 3px solid;
+}
+
+.roundedCSSclass {
+  border: 3px solid black;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.block {
+  display: block;
+}
